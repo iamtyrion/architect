@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Vision"
+date:   2018-04-19 01:58:41 +0530
+comments: true
+---
+
+All good projects start with a vision.
+Here is the initial list for `Architect`
+
+- [ ] UI(angular)
+- [ ] Backend(golang)
+    - [ ] Creator
+        - [ ] Terraform
+    - [ ] Provider
+        - [ ] AWS
+        - [ ] Azure
+    - [ ] Visualizer
+        - [ ] Queryable Graph
+    - [ ] Importer
+    - [ ] Orchestrator
+        - [ ] Create infrastructure from flowchart
+    - [ ] Tests
+- [ ] Static Blog
+    - [ ] Disqus
+    - [ ] Blog Ideas
+        - [ ] Terraform Tutorial
+- [ ] CI
+    - [ ] Travis
+- [ ] CD
+    - [ ] Docker
+    - [ ] Salt Masterless
+
+But I am not one of those guys whom you learn from. I am the guy that tries the hardest.
+I dont know most of the things listed out here. This a superset of a project at work that
+I could not do according to my will. Hence a lot of tech debt. But as you might already know
+`A Lannister always pays his debts`.
+So I decided to start this project. The best place to start is at the beginning so 
+I will start with learning `Angular 5` and `Golang` both of which I have never worked on.
+But fear not, I will start by writing down whatever I learn.
+Looking forward to posting the first tutorial on `Angular 5`.
+Enough for today. Bye Folks.
