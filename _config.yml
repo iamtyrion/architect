@@ -23,10 +23,8 @@ disqus:
     shortname: architect-3
 author:
     name: 'Tyrion Lannister'
-    github: iamtyrion
 
-github:
-    repo: https://github.com/iamtyrion/architect
+github_repo: https://github.com/iamtyrion/architect
 
 twitter:
     username: vimrookie
